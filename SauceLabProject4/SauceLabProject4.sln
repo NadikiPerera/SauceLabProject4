@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SauceLabProject4", "SauceLabProject4\SauceLabProject4.csproj", "{3ED500CC-B1A2-44ED-8E71-67A5F985D694}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ED500CC-B1A2-44ED-8E71-67A5F985D694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ED500CC-B1A2-44ED-8E71-67A5F985D694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ED500CC-B1A2-44ED-8E71-67A5F985D694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ED500CC-B1A2-44ED-8E71-67A5F985D694}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
