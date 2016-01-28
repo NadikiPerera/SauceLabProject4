@@ -52,7 +52,7 @@ namespace SauceLabProject4
         public void googleTest()
         {
             driver.Navigate().GoToUrl("http://www.mortgagecalculator.org/");
-            //  StringAssert.Contains("Google", driver.Title);
+              StringAssert.Contains("Google", driver.Title);
             //  IWebElement query = driver.FindElement(By.Name("q"));
             //  query.SendKeys("Sauce Labs");
             //  query.Submit();
